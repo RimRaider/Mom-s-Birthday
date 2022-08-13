@@ -1,0 +1,74 @@
+/* dark orange : FF8133 */
+/* light orange : ffbc69 */
+
+body{
+    background-color: #ffbc69;
+}
+
+h1{
+    font-size: 9rem;
+}
+
+
+.home{
+    position: relative;
+}
+
+.home-text{
+    position:absolute;
+    margin-left: 1%;
+}
+
+.greet{
+    margin-top: -82.1%;
+    width: 80%;
+}
+
+.tagline{
+    display: inline-block;
+    width: 20%;
+    color:#ff8133;
+    font-size: 5rem;
+    line-height: 6.5rem;
+    padding-top: 3rem;
+    font-style: italic;
+}
+
+.bd-img{
+    display: inline-block;
+    position:relative;
+    width:100%;
+}
+
+.navbar-toggler{
+    margin-left: 95%;
+}
+
+.round{
+    border-radius: 50%;
+    margin:5% 0;
+    border: 3rem solid #ff8133;
+}
+
+.car{
+    display: inline-block;
+    width: 40%;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+.nav-link:hover{
+    color:bisque;
+}
+
+/* cooking */
+.center{
+    background-color: white;
+    margin: 0 auto;
+}
+
+.i{
+    font-style: italic;
+}
